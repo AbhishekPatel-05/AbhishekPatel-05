@@ -8,7 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=MayukhChaturvedi&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -27,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-patel-8643882bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-patel-see" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
